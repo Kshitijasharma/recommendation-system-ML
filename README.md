@@ -3,4 +3,6 @@ Implemented based on walmart case study about their "Complete the Look (CTL) mod
 
 https://medium.com/walmartglobaltech/personalized-complete-the-look-model-ea093aba0b73
 
+Dataset: https://huggingface.co/datasets/Marqo/polyvore
+
 Building the complete application above this.
